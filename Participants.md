@@ -4,7 +4,7 @@
  &nbsp; &nbsp;Alice Allen, University of Maryland: [Astrophysics Source Code Library](http://ascl.net/)  
  &nbsp; &nbsp;Allen Lee, Arizona State University: [CoMSES Net](https://www.comses.net/)  
  &nbsp; &nbsp;Andre Jackson: [DDMoRe Model Repository](http://repository.ddmore.eu/)  
- &nbsp; &nbsp;Anita E Bandrowski, UCSD: [SciCrunch Inc](https://scicrunch.org/)  
+ &nbsp; &nbsp;Anita E Bandrowski, UCSD: [SciCrunch Inc](https://scicrunch.org/) https://orcid.org/0000-0002-5497-0243 
  &nbsp; &nbsp;Bryce Mecum, National Center for Ecological Analysis and Synthesis, UC Santa Barbara: [CodeMeta](https://codemeta.github.io/)  
  &nbsp; &nbsp;Caifan Du, University of Texas at Austin: [CiteAs](http://citeas.org/)  
  &nbsp; &nbsp;Carly Robinson, Department of Energy: [Office of Scientific and Technical Information](https://www.osti.gov/)  
